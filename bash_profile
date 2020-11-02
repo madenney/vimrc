@@ -5,7 +5,7 @@ PATH="/Library/Frameworks/Python.framework/Versions/3.8/bin:${PATH}"
 export PATH
 
 export PATH=/Users/mattdenney/Library/Python/3.8/bin:$PATH
-bind "set completion-ignore-case on"
+set completion-ignore-case on
 
 
 alias d="cd"
